@@ -6,11 +6,24 @@ This is a simple command-line implementation of the classic Tic Tac Toe game wri
 
 1. The game board is represented by a 3x3 grid with each cell numbered from 1 to 9 as shown below:
      
-    1 | 2 | 3 
-   ---|---|---
-    4 | 5 | 6 
-   ---|---|---
-    7 | 8 | 9
+  <table>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+</table>
+
 
 2. Players take turns entering a number corresponding to the cell they want to mark with their symbol (X or O). Player 1 uses X, and Player 2 uses O.
 
