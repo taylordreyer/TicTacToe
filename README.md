@@ -32,8 +32,6 @@ This is a simple command-line implementation of the classic Tic Tac Toe game wri
 
 4. The game continues until there is a winner or a draw. A player wins if they have three of their symbols (X or O) in a horizontal, vertical, or diagonal line. If all cells are filled without a winner, the game is a draw.
 
-...
-
 
 ## License
 [MIT License](LICENSE)
